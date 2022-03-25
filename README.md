@@ -5,5 +5,3 @@
 #### [활동은 wiki 참조](https://github.com/StupidDeveloper05/Programing-Club-Activities/wiki)
 
 ---
-
-## 첫 활동
