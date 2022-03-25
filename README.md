@@ -3,5 +3,3 @@
 + ### 시작 : 2022-03-25
 
 #### [활동은 wiki 참조](https://github.com/StupidDeveloper05/Programing-Club-Activities/wiki)
-
-<input></input>
