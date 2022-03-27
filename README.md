@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/license-GNU%203.0-green"/>
 # Programing-Club-Activities
 ## 컴동 활동내용 리포지토리 
 + ### 시작 : 2022-03-25
